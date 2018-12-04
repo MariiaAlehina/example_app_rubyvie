@@ -1,0 +1,14 @@
+{
+  "name": "example_app",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "vue": "^2.5.17",
+    "vue-loader": "14.2.2",
+    "vue-template-compiler": "^2.5.17",
+    "eslint": "5.9.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
